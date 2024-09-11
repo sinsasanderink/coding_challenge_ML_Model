@@ -1,4 +1,5 @@
 # Albert and the Ear Shells
+![shell](./shell.png)
 
 ## Introduction
 Ear shells are marine snails, and their age is traditionally determined by counting growth rings after cutting and staining the shell—a tedious process. Albert, a scientist specializing in ear shells, seeks a more efficient way to predict the age (number of rings) of ear shells using readily available measurements.
